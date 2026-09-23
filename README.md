@@ -1,6 +1,6 @@
 <a id="en"></a>
 
-# 🧪 Prompt Injection Lab (PoC)
+# 🧪 Prompt Injection Lab 
 
 **🌐 Language / Til:** **English** · [O'zbekcha ↓](#uz)
 
@@ -196,7 +196,7 @@ GitHub: [@umid1988](https://github.com/umid1988) · HackAI (AI/LLM security rese
 
 <a id="uz"></a>
 
-# 🧪 Prompt Injection Lab (PoC) — O'zbekcha
+# 🧪 Prompt Injection Lab  — O'zbekcha
 
 **🌐 Language / Til:** [English ↑](#en) · **O'zbekcha**
 
