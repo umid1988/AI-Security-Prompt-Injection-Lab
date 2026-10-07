@@ -1,0 +1,4 @@
+# Core (offline sim + chatbot)
+beautifulsoup4>=4.12
+# Only needed for LLM_MODE=api (real Anthropic model)
+anthropic>=0.40
